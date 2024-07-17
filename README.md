@@ -3,6 +3,7 @@
 **About**
 
 This project involves analyzing the Adventure Works dataset using Microsoft Power BI. It includes importing and creating relationships among tables, performing Exploratory Data Analysis (EDA), and creating an interactive dashboard to visualize key performance indicators (KPIs).
+
 **Project Overview**
 
 This project focuses on analyzing data from Adventure Works, a fictional bicycle manufacturing company. The dataset contains tables related to sales, territories, products, returns, subcategories, product categories, customers, and the calendar. The goal is to create an interactive and dynamic dashboard in Power BI that provides meaningful insights into the company's sales performance.
