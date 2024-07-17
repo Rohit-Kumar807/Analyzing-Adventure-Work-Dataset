@@ -14,17 +14,18 @@ The data includes the following tables:
 
 Sales Tables:
 
-Sales Table 1
-Sales Table 2
-Sales Table 3
+Sales Table 1,
+Sales Table 2,
+Sales Table 3,
+
 Other Tables:
 
-AW_Territories
-AW_Products
-AW_Returns
-AW_Subcategories
-AW_ProductCategories
-AW_Customers
+AW_Territories,
+AW_Products,
+AW_Returns,
+AW_Subcategories,
+AW_ProductCategories,
+AW_Customers,
 AW_Calendar
 
 **Tasks**
